@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "name": "deep",
+      "email": "devilraja786786@gmaiul.com",
+      "password": "5454",
+      "number": "54656",
+      "id": 1
+    },
+    {
+      "name": "nbhv",
+      "email": "",
+      "password": "1512",
+      "number": "5451",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
